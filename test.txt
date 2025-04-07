@@ -1,0 +1,7 @@
+configure git hub. command prompt
+create folder in desktop named React.
+create new repository named React.js
+open local folder in VS code
+open vs code terminal
+clone git repository with local folder using git clone{URL} command
+git status - status of the folder
