@@ -5,3 +5,6 @@ open local folder in VS code
 open vs code terminal
 clone git repository with local folder using git clone{URL} command
 git status - status of the folder
+git add . - add all the untracked files - status changed into committed
+git commit - m"megssage"
+git push
